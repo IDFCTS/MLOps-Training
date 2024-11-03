@@ -21,11 +21,10 @@
 - GDDR
 - CUDA
 - DGX
-- NVLink
 - VGPU
 - Rapids
 - NGC
-- Shardin
+- Sharding
 
 ### Final Exercise:
 1. Oral Exam
