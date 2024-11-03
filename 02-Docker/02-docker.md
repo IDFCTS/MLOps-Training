@@ -14,16 +14,16 @@
 5. [Exerecises](https://hamk-sysadmin-docker.github.io/exercises/) - Do everything up to 2.4
 
 ### Key Concepts:
--   container
--   security groups
--   container vs VM
--   image and layer
--   dockerfile
--   docker build and docker run
--   bind mount vs volume
--   dockerd
--   docker compose
--   docker alternatives
+-   Container
+-   Security groups
+-   Container vs VM
+-   Image and layer
+-   Dockerfile
+-   Docker build and docker run
+-   Bind mount vs volume
+-   Dockerd
+-   Docker compose
+-   Docker alternatives
 
 ### Final Exercise:
 - Create a Dockerfile that packs your code of the Fastapi code from the previous section.
