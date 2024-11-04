@@ -4,7 +4,7 @@ During this section you are meant to understand the concept of MLops, what it is
 ### TODO:
 1. [Google what's MLops](https://letmegooglethat.com/?q=mlops)
 2. Read this glossary about [MLops](https://www.databricks.com/glossary/mlops)
-3. Search what tools we have in the TS, don't need to know how they work, just what they do in a general sense, you'll get a deep dive into them in the future.
+3. Search what tools we have in the TS. You don't need to know how they work, just what they do in a general sense. You'll get a deep dive into them in the future.
 
 ### Key Concepts:
 - Main workflow of ML
