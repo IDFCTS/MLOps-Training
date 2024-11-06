@@ -3,7 +3,7 @@
 ### TODO:
 
 1. Read about [helm](https://letmegooglethat.com/?q=helm)
-2. Read anout [kustomize](https://kustomize.io/) 
+2. Read about [kustomize](https://kustomize.io/) 
 
 
 ### Key Concepts:
