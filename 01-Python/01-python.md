@@ -28,7 +28,6 @@
 -   list comprehension
 -   PEP
 -   isinstance and hasattr
--   mixin
 -   whl file
 
     
