@@ -16,7 +16,6 @@
 
 4. #### Web Frameworks
    1. Read about different web frameworks and playaround with them.
-      - Flask
       - FastAPI
       - Another framework of your choosing
 
