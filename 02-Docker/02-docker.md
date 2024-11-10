@@ -26,4 +26,4 @@
 
 ### Final Exercise:
 - Create a Dockerfile that packs your code of the Fastapi code from the previous section.
-- Give an example for a use case where VM is more suitable than a container.
+- Give an example for a use case where a VM is more suitable than a container.
