@@ -12,4 +12,4 @@ By the end of this section, you will learn how to our model tracking tool of cho
 - Models
 
 ### Final Exercise:
-- Use our MLflow server/your local one, add tracking to your previous work.
+- Add tracking to your previous work by connection the model you build in `07-ML basics` using the MLflow server in the TS
