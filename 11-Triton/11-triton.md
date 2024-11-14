@@ -17,4 +17,4 @@
 
 ### Final Exercise:
 1. Create your own Triton instance in the TS.
-2. Whiten a model from huggingface and infer on it through the Triton instance your created.
+2. Whiten a model from huggingface and infer on it.
