@@ -16,4 +16,4 @@
 - Kustomization File
 
 ### Final Exercise:
-- Deploy your the docker image from `02-docker` on openshift using helm.
+- Deploy the docker image from `02-docker` on openshift using helm.
