@@ -25,5 +25,5 @@
 - Sharding
 
 ### Final Exercise:
-1. Oral Exam
+- Oral Exam
 ![WhatsApp Image 2024-03-26 at 16 53 24](https://github.com/MLaaS-idfCts/mlops-trainning-for-rookies/assets/48046918/a7b6c486-2255-43b4-a936-1245543a0097)

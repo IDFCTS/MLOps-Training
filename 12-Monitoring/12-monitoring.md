@@ -25,4 +25,4 @@
 
 
 ### Final Exercise:
-1. Use Gradana and Prometheus to create a simple dashboard for the Triton instance you created in `11-triton.md`
+- Use Gradana and Prometheus to create a simple dashboard for the Triton instance you created in `11-triton.md`
