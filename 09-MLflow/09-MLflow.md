@@ -1,5 +1,5 @@
 # MLflow
-By the end of this section, you will learn how to our model tracking tool of choice, MLflow.
+By the end of this section, you will learn how to use our model tracking tool of choice, MLflow.
 
 ### TODO:
 1. Introduction to [MLflow](https://www.databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
