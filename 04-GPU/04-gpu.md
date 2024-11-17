@@ -5,7 +5,6 @@
 1. GPU:
     1. https://www.androidauthority.com/what-is-a-gpu-gary-explains-693542/
     3. https://blogs.nvidia.com/blog/2018/06/11/what-is-a-virtual-gpu/
-    4. [Nvidia Grid](http://letmegooglethat.com/?q=nvidia+grid)
     5. [DGX](https://devblogs.nvidia.com/dgx-1-fastest-deep-learning-system/)
    
 2. ML <3 GPUs
