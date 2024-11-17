@@ -3,9 +3,8 @@
 ### TODO:
 1. #### Basic Python
     1. [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
-    2. [Introduction to Python Programming](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=39197&u1=ddfreepython2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpythonforbeginnersintro%2F)
-    3. [PEP8](https://realpython.com/python-pep8/)
-    5. [OOP and python](https://realpython.com/inheritance-composition-python/#whats-inheritance)
+    2. [PEP8](https://realpython.com/python-pep8/)
+    3. [OOP and python](https://realpython.com/inheritance-composition-python/#whats-inheritance)
 
 2. #### Regex
     1. https://www.w3schools.com/python/python_regex.asp
