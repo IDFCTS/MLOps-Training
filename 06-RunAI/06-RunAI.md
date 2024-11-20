@@ -5,8 +5,8 @@
     - Interactive Jobs
     - Training Jobs
     - Inference
-    - Runai Schedualer
-    - Schedualing Strategies
+    - Runai Scheduler
+    - Scheduling Strategies
     - GPU Fractions
     - Job Statues
     - Workspaces
