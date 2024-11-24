@@ -10,21 +10,20 @@
     1. Stage 1: do only [Docker for Beginners - Linux](https://training.play-with-docker.com/beginner-linux/)
     2. Stage 2: do only [Live Debugging Node.js with Docker and Visual Studio Code](https://training.play-with-docker.com/nodejs-live-debugging/)
     3. Don't do stage 3
-4. Read about Configure networking, Manage application data in https://docs.docker.com/network/
-5. [Exerecises](https://hamk-sysadmin-docker.github.io/exercises/) - Do everything up to 2.4
+4. [Exerecises](https://hamk-sysadmin-docker.github.io/exercises/) - Do everything up to 2.4
 
 ### Key Concepts:
--   container
--   security groups
--   container vs VM
--   image and layer
--   dockerfile
--   docker build and docker run
--   bind mount vs volume
--   dockerd
--   docker compose
--   docker alternatives
+-   Container
+-   Security groups
+-   Container vs VM
+-   Image and layer
+-   Dockerfile
+-   Docker build and docker run
+-   Bind mount vs volume
+-   Dockerd
+-   Docker compose
+-   Docker alternatives
 
 ### Final Exercise:
 - Create a Dockerfile that packs your code of the Fastapi code from the previous section.
-- Give an example for a use case where VM is more suitable than a container.
+- Give an example for a use case where a VM is more suitable than a container.

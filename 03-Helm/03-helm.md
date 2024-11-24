@@ -3,7 +3,7 @@
 ### TODO:
 
 1. Read about [helm](https://letmegooglethat.com/?q=helm)
-2. Read anout [kustomize](https://kustomize.io/) 
+2. Read about [kustomize](https://kustomize.io/) 
 
 
 ### Key Concepts:
@@ -16,4 +16,4 @@
 - Kustomization File
 
 ### Final Exercise:
-1. Deploy your application from the previous exerecise on openshift using helm.
+- Deploy the docker image from `02-docker` on openshift using helm.

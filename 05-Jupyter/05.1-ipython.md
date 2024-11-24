@@ -1,0 +1,20 @@
+# IPython
+
+### TODO:
+- Read about IPython.
+- Explain the cons and pros of using IPython over a standard Python shell.
+- Start an IPython shell
+- Read about `magic commands`
+- Learn about IPython configuration options:
+    - customize your IPython shell by changing the color scheme, prompt, and other settings.
+    - Save your configuration settings to a file.
+- Learn about IPython extentions:
+    - Install and use an Ipython extention (like `ipython-sql` or `ipython-gui`).
+
+
+### Key Concepts:
+- Interactive Shell
+- Magics
+- Kernel
+- Cells
+- ipkernel
